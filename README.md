@@ -18,4 +18,4 @@ Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° ce
 
 The 'Boundaries' folder contains shapefiles for each of the regional boundaries used in the study. ATLN, north Atlantic; ATLS, south Atlantic; INDE, each Indian Ocean; INDNW, northwest Indian Ocean; INDSW, southwest Indian Ocean; PACE, east Pacific; PACW, west Pacific. 
 
-For more dertails on the methods or specific definitions please see the paper: 
+For more dertails on the methods or specific definitions please see the paper: https:// XXX TBC
