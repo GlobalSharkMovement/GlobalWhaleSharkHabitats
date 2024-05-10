@@ -10,7 +10,7 @@ Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° ce
 
 The 'Future' folder contains derived data on change in whale shark habitat suitability values (-1 - +1) for two decadal averages (2046 - 2055 and 2086 - 2095) and three scenarios (ssp126, ssp370 and ssp585) from the 2005 - 2019 baseline. The decade, ssp and region are given in the file name (i.e. ATLN_2046-2055_ssp126 contains data from the north Atlantic subset of tracked sharks projected into the years 2046 - 2055 under scenario ssp126). Shapefiles of regional boundaries are in the 'Boundaries' folder (see below). 
 
-Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° cell resolution scale, where each row represencts a single cell, with 'Longitude' and 'Latitude' columns giving the position of the cell centre. The 'HabitatChange' column gives the change in whale shark habitat suitability (-1 - +1) from the baseline value for each cell. 
+Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° cell resolution scale, where each row represents a single cell, with 'Longitude' and 'Latitude' columns giving the position of the cell centre. The 'HabitatChange' column gives the change in whale shark habitat suitability (-1 - +1) from the baseline value for each cell. 
 
 #### BOUNDARIES ####
 
