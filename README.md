@@ -8,7 +8,7 @@ Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° ce
 
 #### FUTURE ####
 
-The 'Future' folder contains derived data on change in whale shark habitat suitability values (-1 - +1) for two decadal averages (2046 - 2055 and 2086 - 2095) and three scenarios (ssp126, ssp370 and ssp585) from the 2005 - 2019 baseline. 
+The 'Future' folder contains derived data on change in whale shark habitat suitability values (-1 - +1) from the 2005 - 2019 baseline for two decadal averages (2046 - 2055 and 2086 - 2095) and three scenarios (ssp126, ssp370 and ssp585) based on CMIP6 climatologies. 
 
 Change in whale shark habitat sutiability was projected for each decade, ssp and region which are given in the file name (i.e. ATLN_2046-2055_ssp126 contains data from the north Atlantic subset of tracked sharks projected into the years 2046 - 2055 under scenario ssp126). Projections are at the ocean basin scale, but based on tracking data from within one of seven ocean regions. Shapefiles of regional boundaries are in the 'Boundaries' folder (see below). 
 
@@ -18,4 +18,4 @@ Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° ce
 
 The 'Boundaries' folder contains shapefiles for each of the regional boundaries used in the study. ATLN, north Atlantic; ATLS, south Atlantic; INDE, each Indian Ocean; INDNW, northwest Indian Ocean; INDSW, southwest Indian Ocean; PACE, east Pacific; PACW, west Pacific. 
 
-For more dertails on the methods please see the paper: 
+For more dertails on the methods or specific definitions please see the paper: 
