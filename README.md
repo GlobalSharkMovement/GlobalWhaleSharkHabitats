@@ -14,12 +14,14 @@ Change in whale shark habitat suitability was projected for each decade, ssp and
 
 Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° cell resolution scale, where each row represents a single cell, with 'Longitude' and 'Latitude' columns giving the position of the cell centre. The 'HabitatChange' column gives the change in whale shark habitat suitability (-1 - +1) from the baseline value for each cell. 
 
-## BOoundaries
+## Boundaries
 
 The [Boundaries](/Boundaries) folder contains shapefiles for each of the regional boundaries used in the study. ATLN, north Atlantic; ATLS, south Atlantic; INDE, each Indian Ocean; INDNW, northwest Indian Ocean; INDSW, southwest Indian Ocean; PACE, east Pacific; PACW, west Pacific. 
 
 ## Code
 
 The [Code](/Code) folder contains an R script ([SCI.R](Code/SCI.R)) and associated example datasets (within the [Example](/Code/Example) sub-folder). The script is used to load in whale shark habitat suitability maps and overlay them with vessel data to determine the shipping co-occurrence index (SCI) for a given spatial boundary and temporal subset; the code is written in R version 4.3.2 (2023-10-31) and annotations are provided for each step.
+
+##
 
 For more details on the methods or specific definitions please see the associated paper: https:// XXX TBC
