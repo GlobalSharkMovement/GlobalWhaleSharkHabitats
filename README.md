@@ -18,4 +18,8 @@ Files are in the '.csv' format and contain gridded data at the 0.25 × 0.25° ce
 
 The 'Boundaries' folder contains shapefiles for each of the regional boundaries used in the study. ATLN, north Atlantic; ATLS, south Atlantic; INDE, each Indian Ocean; INDNW, northwest Indian Ocean; INDSW, southwest Indian Ocean; PACE, east Pacific; PACW, west Pacific. 
 
-For more dertails on the methods or specific definitions please see the paper: https:// XXX TBC
+#### CODE ####
+
+The 'Code' folder contains an R script used to calculate the shipping co-occurence index (SCI.R) and associated example datasets (within the 'Example' sub-folder). The script is annotated throughout.  
+
+For more details on the methods or specific definitions please see the associated paper: https:// XXX TBC
