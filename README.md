@@ -23,5 +23,3 @@ The [Boundaries](/Boundaries) folder contains shapefiles for each of the regiona
 The [Code](/Code) folder contains an R script ([SCI.R](Code/SCI.R)) and associated example datasets (within the [Example](/Code/Example) sub-folder). The script is used to load in whale shark habitat suitability maps and overlay them with vessel data to determine the shipping co-occurrence index (SCI) for a given spatial boundary and temporal subset; the code is written in R version 4.3.2 (2023-10-31) and annotations are provided for each step.
 
 ##
-
-For more details on the methods or specific definitions please see the associated paper: https:// XXX TBC
