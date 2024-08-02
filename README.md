@@ -7,6 +7,10 @@ This repository contains derived and example data alongside novel code used in W
 
 Environmental data used in the study are available at https://data.marine.copernicus.eu/products. CMIP6 data are available at https://esgf-ui.ceda.ac.uk/cog/search/cmip6-ceda/. Shipping data are available upon request to Global Fishing Watch (https://www.globalfishingwatch.org). Ocean Biodiversity Information System (OBIS) and SharkBook whale shark observation data are available at https://obis.org (open) and https://www.sharkbook.ai/ (upon request), respectively. AquaMaps data are available at https://www.aquamaps.org. Exclusive Economic Zone (EEZ) boundary data are available at https://www.marineregions.org/downloads.php. Large Marine Ecosystem (LME) boundary data are available at https://github.com/datasets/lme-large-marine-ecosystems/. Land boundary data are available at https://www.naturalearthdata.com. International Union for Conservation of Nature (IUCN) boundary data are available at https://www.iucnredlist.org/ja/species/19488/2365291. 
 
+##
+
+# Contents of this repository
+
 ## Current
 
 The [Current](/Current) folder contains derived data on present day predictions of whale shark habitat suitability (0 - 1) based on satellite telemetry data of shark movements, Generalised Additive Models, and climatologies for the years 2005 - 2019.
