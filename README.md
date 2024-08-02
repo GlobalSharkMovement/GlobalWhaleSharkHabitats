@@ -1,3 +1,7 @@
+Climate-driven global redistribution of an ocean giant predicts increased threat from shipping![image](https://github.com/user-attachments/assets/7578bc96-6c58-4494-94c7-d1a1c9032087)
+
+[![DOI](https://zenodo.org/badge/798262494.svg)](https://zenodo.org/doi/10.5281/zenodo.13170642)
+
 ## Current
 
 The [Current](/Current) folder contains derived data on present day predictions of whale shark habitat suitability (0 - 1) based on satellite telemetry data of shark movements, Generalised Additive Models, and climatologies for the years 2005 - 2019.
