@@ -3,10 +3,6 @@
 
 This repository contains derived and example data alongside novel code used in Womersley et al., (published in Nature Climate Change, 2024) where we explore climate change responses of whale shark habitats and potential co-occurrence with shipping traffic globally. For this we used a whale shark satellite-tracking dataset spanning 15 years, including tagging sites in all major oceans they inhabit (348 individuals collectively tracked for over 15,000 days) together with oceanographic variables and global climate models from the Coupled Model Intercomparison Phase 6 (CMIP6). Species distribution models were developed to (i) generate a first order approximation of global habitat suitability and (ii) project the distribution of whale sharks in two future decades under three mitigation scenarios. These were then used to (iii) assess habitat changes and horizontal co-occurrence with shipping traffic.
 
-
-##
-
-
 **Open source data used in the study are freely avaiable online at:**
 
 * Environmental data are available at https://data.marine.copernicus.eu/products.
